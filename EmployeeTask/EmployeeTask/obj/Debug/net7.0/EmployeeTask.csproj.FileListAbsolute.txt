@@ -1,0 +1,15 @@
+C:\Users\Lenovov\source\repos\EmployeeTask\EmployeeTask\obj\Debug\net7.0\EmployeeTask.csproj.AssemblyReference.cache
+C:\Users\Lenovov\source\repos\EmployeeTask\EmployeeTask\obj\Debug\net7.0\EmployeeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovov\source\repos\EmployeeTask\EmployeeTask\obj\Debug\net7.0\EmployeeTask.AssemblyInfoInputs.cache
+C:\Users\Lenovov\source\repos\EmployeeTask\EmployeeTask\obj\Debug\net7.0\EmployeeTask.AssemblyInfo.cs
+C:\Users\Lenovov\source\repos\EmployeeTask\EmployeeTask\obj\Debug\net7.0\EmployeeTask.csproj.CoreCompileInputs.cache
+C:\Users\Lenovov\source\repos\EmployeeTask\EmployeeTask\bin\Debug\net7.0\EmployeeTask.exe
+C:\Users\Lenovov\source\repos\EmployeeTask\EmployeeTask\bin\Debug\net7.0\EmployeeTask.deps.json
+C:\Users\Lenovov\source\repos\EmployeeTask\EmployeeTask\bin\Debug\net7.0\EmployeeTask.runtimeconfig.json
+C:\Users\Lenovov\source\repos\EmployeeTask\EmployeeTask\bin\Debug\net7.0\EmployeeTask.dll
+C:\Users\Lenovov\source\repos\EmployeeTask\EmployeeTask\bin\Debug\net7.0\EmployeeTask.pdb
+C:\Users\Lenovov\source\repos\EmployeeTask\EmployeeTask\obj\Debug\net7.0\EmployeeTask.dll
+C:\Users\Lenovov\source\repos\EmployeeTask\EmployeeTask\obj\Debug\net7.0\refint\EmployeeTask.dll
+C:\Users\Lenovov\source\repos\EmployeeTask\EmployeeTask\obj\Debug\net7.0\EmployeeTask.pdb
+C:\Users\Lenovov\source\repos\EmployeeTask\EmployeeTask\obj\Debug\net7.0\EmployeeTask.genruntimeconfig.cache
+C:\Users\Lenovov\source\repos\EmployeeTask\EmployeeTask\obj\Debug\net7.0\ref\EmployeeTask.dll
