@@ -1,0 +1,15 @@
+C:\Users\Lenovov\source\repos\ClassTask2\ClassTask2\bin\Debug\net7.0\ClassTask2.exe
+C:\Users\Lenovov\source\repos\ClassTask2\ClassTask2\bin\Debug\net7.0\ClassTask2.deps.json
+C:\Users\Lenovov\source\repos\ClassTask2\ClassTask2\bin\Debug\net7.0\ClassTask2.runtimeconfig.json
+C:\Users\Lenovov\source\repos\ClassTask2\ClassTask2\bin\Debug\net7.0\ClassTask2.dll
+C:\Users\Lenovov\source\repos\ClassTask2\ClassTask2\bin\Debug\net7.0\ClassTask2.pdb
+C:\Users\Lenovov\source\repos\ClassTask2\ClassTask2\obj\Debug\net7.0\ClassTask2.csproj.AssemblyReference.cache
+C:\Users\Lenovov\source\repos\ClassTask2\ClassTask2\obj\Debug\net7.0\ClassTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovov\source\repos\ClassTask2\ClassTask2\obj\Debug\net7.0\ClassTask2.AssemblyInfoInputs.cache
+C:\Users\Lenovov\source\repos\ClassTask2\ClassTask2\obj\Debug\net7.0\ClassTask2.AssemblyInfo.cs
+C:\Users\Lenovov\source\repos\ClassTask2\ClassTask2\obj\Debug\net7.0\ClassTask2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovov\source\repos\ClassTask2\ClassTask2\obj\Debug\net7.0\ClassTask2.dll
+C:\Users\Lenovov\source\repos\ClassTask2\ClassTask2\obj\Debug\net7.0\refint\ClassTask2.dll
+C:\Users\Lenovov\source\repos\ClassTask2\ClassTask2\obj\Debug\net7.0\ClassTask2.pdb
+C:\Users\Lenovov\source\repos\ClassTask2\ClassTask2\obj\Debug\net7.0\ClassTask2.genruntimeconfig.cache
+C:\Users\Lenovov\source\repos\ClassTask2\ClassTask2\obj\Debug\net7.0\ref\ClassTask2.dll
